@@ -1,2 +1,2 @@
-# email2sandeep.github.io-lycan-stories
+# lycan-stories.github.io
 Lycan Stories
